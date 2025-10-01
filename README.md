@@ -1,5 +1,5 @@
 # 💫 About Me:
-Absolutely! 🚀 Full stack developer in the making, diving into DSA. Passionate about creativity and innovation in tech. Let's connect and collaborate on exciting projects! 🌟🌐
+Absolutely! 🚀Full Stack Developer | Generative AI Explorer in the making, diving into DSA. Passionate about creativity and innovation in tech. Let's connect and collaborate on exciting projects! 🌟🌐
 <img src="https://www.agilitypr.com/wp-content/uploads/2020/02/technology-1-1.jpg" alt="coding" width="400" align="right" margin="10" height="225" border="10px"> 
 
 ## 🌐 Socials:
@@ -12,10 +12,6 @@ Absolutely! 🚀 Full stack developer in the making, diving into DSA. Passionate
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AYUSHMAN777&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSHMAN777&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=AYUSHMAN777&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushman777" alt="ayushman777" /></a> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
