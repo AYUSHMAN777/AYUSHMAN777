@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="https://github.com/AYUSHMAN777/AYUSHMAN777/blob/main/name.svg" alt="Ayushman Singh" />
+</p>
+
 # 💫 About Me:
+
+
 Absolutely! 🚀Full Stack Developer | Generative AI Explorer in the making, diving into DSA. Passionate about creativity and innovation in tech. Let's connect and collaborate on exciting projects! 🌟🌐
-<img src="https://www.agilitypr.com/wp-content/uploads/2020/02/technology-1-1.jpg" alt="coding" width="400" align="right" margin="10" height="225" border="10px"> 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100023904752413) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_ayushman_in/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayushman-singh-b68815270/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/ayushman12700singh/) 
