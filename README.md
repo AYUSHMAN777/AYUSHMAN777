@@ -33,15 +33,23 @@ Absolutely! 🚀Full Stack Developer | Generative AI Explorer in the making, div
 ![LLMs](https://img.shields.io/badge/LLMs-FF6F00.svg?style=for-the-badge&logo=openai&logoColor=white) 
 ![RAG](https://img.shields.io/badge/RAG-007ACC.svg?style=for-the-badge&logo=knowledgebase&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AYUSHMAN777&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AYUSHMAN777&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSHMAN777&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+📊 GitHub Stats:
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=AYUSHMAN777&theme=react&hide_border=false&include_all_commits=false&count_private=false" /><br/><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AYUSHMAN777&theme=react&hide_border=false" /><br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSHMAN777&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br/><br/><br/><br/><br/>
+      <img src="https://raw.githubusercontent.com/AYUSHMAN777/AYUSHMAN777/main/3D%20Image.gif" alt="3D Developer" width="400"/>
+    </td>
+  </tr>
+</table>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushman777" alt="ayushman777" /></a> </p>
-
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+
