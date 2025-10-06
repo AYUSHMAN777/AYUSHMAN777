@@ -35,7 +35,9 @@ Absolutely! 🚀Full Stack Developer | Generative AI Explorer in the making, div
 ![RAG](https://img.shields.io/badge/RAG-007ACC.svg?style=for-the-badge&logo=knowledgebase&logoColor=white)
 
 # 📊 GitHub Stats: 
-![](https://github-readme-stats.vercel.app/api?username=AYUSHMAN777&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=AYUSHMAN777&theme=react&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSHMAN777&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AYUSHMAN777&theme=react&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AYUSHMAN777&theme=react&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushman777" alt="ayushman777" /></a> </p>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
