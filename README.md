@@ -39,7 +39,8 @@ Absolutely! 🚀Full Stack Developer | Generative AI Explorer in the making, div
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AYUSHMAN777&theme=react&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushman777" alt="ayushman777" /></a> </p>
+![GitHub Trophies](https://github-trophies.vercel.app/?username=AYUSHMAN777&theme=darkhub)
+
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
