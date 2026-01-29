@@ -9,7 +9,7 @@ Absolutely! 🚀Full Stack Developer | Generative AI Explorer in the making, div
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100023904752413) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_ayushman_in/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayushman-singh-b68815270/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/ayushman12700singh/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100023904752413)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_ayushman_in/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayushman-singh-b68815270/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/ayushman12700singh/) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -35,7 +35,9 @@ Absolutely! 🚀Full Stack Developer | Generative AI Explorer in the making, div
 ![RAG](https://img.shields.io/badge/RAG-007ACC.svg?style=for-the-badge&logo=knowledgebase&logoColor=white)
 
 # 📊 GitHub Stats: 
-![](https://github-readme-stats.vercel.app/api?username=AYUSHMAN777&theme=react&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800)
+
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AYUSHMAN777&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="Ayushman's GitHub Stats" />
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AYUSHMAN777&theme=react&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
 
